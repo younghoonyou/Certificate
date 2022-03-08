@@ -16,9 +16,9 @@
                 <p>I participated in a contest for Electronic Formula and I had responsible for ECU parts
             <br>
                 Also I participated in seminar for Automotive semiconductor and system S/W part</p>
-            <img src="https://user-images.githubusercontent.com/69233428/157189995-8bb31364-5c40-4d97-aade-e9cd4575bf89.png" width = "300" heigth = "530" align="middle"><p>Certification<br>Festival<br>Festival Name : Ewha Seminar August<br>Festival schedule : Aug/10/2021 ~ Aug/10/2021<br>Where : Online Free Seminar<br>Partifipant<br>Name : You , Young-Hoon<br>Belong : Hanyang Uniersity<br>Team Name : FOURTOR<br><br>The above member confirmed that he/she participated in the above event.<br><br>Jan/27/2022<br><br>Coporation President of Korea Society of Automotive Engineers</p>
+            <img src="https://user-images.githubusercontent.com/69233428/157189995-8bb31364-5c40-4d97-aade-e9cd4575bf89.png" width = "300" heigth = "530" align="middle"><p>Certification<br>Festival<br>Festival Name : Ewha Seminar August<br>Festival schedule : Aug/10/2021 ~ Aug/10/2021<br>Where : Online Free Seminar<br>Partifipant<br>Name : You , Young-Hoon<br>Belong : Hanyang Uniersity<br>Team Name : FOURTOR<br><br>The above member confirmed that he/she participated in the above event.<br><br>Jan/27/2022<br><br>From. Coporation President of Korea Society of Automotive Engineers</p>
             <br>
-            <img src="https://user-images.githubusercontent.com/69233428/157189579-11d1efc2-4dc6-4c54-90fa-156e93dd41a9.png" width = "300" heigth = "530" align="middle"><p>Certification<br>Festival<br>Festival Name : 2021 KSAE Studuent DIY Automobile Competition<br>Festival schedule : Dec/03/2021 ~ Dec/05/2021<br>Where : Saemangeum Gunsan Automobile Racecourse<br>Partifipant<br>Name : You , Young-Hoon<br>Belong : Hanyang Uniersity<br>Job Position : Studuent<br><br>The above member confirmed that he/she participated in the above event.<br><br>Jan/27/2022<br><br>Coporation President of Korea Society of Automotive Engineers</p>
+            <img src="https://user-images.githubusercontent.com/69233428/157189579-11d1efc2-4dc6-4c54-90fa-156e93dd41a9.png" width = "300" heigth = "530" align="middle"><p>Certification<br>Festival<br>Festival Name : 2021 KSAE Studuent DIY Automobile Competition<br>Festival schedule : Dec/03/2021 ~ Dec/05/2021<br>Where : Saemangeum Gunsan Automobile Racecourse<br>Partifipant<br>Name : You , Young-Hoon<br>Belong : Hanyang Uniersity<br>Job Position : Studuent<br><br>The above member confirmed that he/she participated in the above event.<br><br>Jan/27/2022<br><br>From. Coporation President of Korea Society of Automotive Engineers</p>
             <img src="https://user-images.githubusercontent.com/69233428/157190011-251d284d-4503-4d8d-97b5-f258efda78ec.png" width = "300" heigth = "530">
     <br>
     <br>
@@ -50,7 +50,7 @@
        <text>Jan/21/2022</text>
        <br>
        <br>
-       <text>From Jun-Nam University Campus</text>
+       <text>From. Jun-Nam University Campus</text>
        <text>By Center director Choi , Su-il</text>
             </div>
         <br>
@@ -74,7 +74,7 @@
        <text>Feb/17/2021</text>
        <br>
        <br>
-       <text>From Semi Conductor design Education Center</text>
+       <text>From. Semi Conductor design Education Center</text>
        <text>By Center director Park , In-cheul</text>
             </div>
 </div>
