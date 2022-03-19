@@ -77,4 +77,9 @@
        <text>From. Semi Conductor design Education Center</text>
        <text>By Center director Park , In-cheul</text>
             </div>
+        <br>
+        <br>
+        <h3>Work Placement Program</h3>
+            <hr/>
+        <img src="https://user-images.githubusercontent.com/69233428/159107663-d5c4941f-7de9-4188-8f60-a021aff06529.png">
 </div>
