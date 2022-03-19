@@ -22,10 +22,10 @@
             <img src="https://user-images.githubusercontent.com/69233428/157190011-251d284d-4503-4d8d-97b5-f258efda78ec.png" width = "300" heigth = "530">
     <br>
     <br>
-    <h3>Pyeong Chang Volunteer</h3>
+    <h3>Pyeong Chang Olympic Volunteer</h3>
         <hr/>
         <img src="https://user-images.githubusercontent.com/69233428/157189359-1c1e61df-347b-408c-8501-41da9b6f54e3.png" width = "300" heigth = "530">
-        <p>When I was a soldier I volunteered Pyeong Chang Olympic</p>
+        <p>I volunteered Pyeong Chang Olympic</p>
     <br>
     <br>
     <h3>IC Design Education Center - IDEC</h3>
