@@ -82,4 +82,25 @@
         <h3>Work Placement Program</h3>
             <hr/>
         <img src="https://user-images.githubusercontent.com/69233428/159107663-d5c4941f-7de9-4188-8f60-a021aff06529.png">
+            <h3>SamSung Software Academy</h3>
+        <hr/>
+        <img src="https://user-images.githubusercontent.com/69233428/161918888-a73473e8-3b04-469c-ac5c-f6e910d4b394.png" width = "550">
+        <br>
+        <text>Name : You , Young-Hoon</text>
+        <br>
+        <text>Course : SamSung Winter SW expert academy</text>
+        <br>
+        <text>Period : 2022/Jan/17 ~ 2022/Feb/25</text>
+        <br>
+        <text>This person is awarded this certificate</text>
+        <br>
+        <text>Because he has completed the Samsung Electronics winter SW expert academy training course.</text>
+        <br>
+        <text>2022/Apr/06</text>
+        <br>
+        <text>SamSung Corp.</text>
+        <br>
+        <text>※inquiry : Samsung Electronics HR team (031-277-7630)</text>
+        <br>
+    
 </div>
